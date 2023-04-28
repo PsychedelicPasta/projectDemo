@@ -3,5 +3,6 @@ Group 41
 
 Members: 
 Stella Ngo
-Emmanuel Mendieta
+<hr />Emmanuel Mendieta
+<hr />
 ...
