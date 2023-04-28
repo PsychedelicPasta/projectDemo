@@ -1,7 +1,7 @@
 # projectDemo
 Group 41
 
-Members: 
+Members: <br />
 Stella Ngo
 <hr />Emmanuel Mendieta
 <hr />
